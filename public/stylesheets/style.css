@@ -1,0 +1,12 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color:#9ce3ff;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#delete-form{
+  display: inline;
+}
